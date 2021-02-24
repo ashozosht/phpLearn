@@ -38,6 +38,7 @@ class mellat extends onlineGetWay
     public function sendRequest()
     {
         var_dump(($this->mellatOptions));
+        echo "something";
     }
     public function verifyRequest()
     {
